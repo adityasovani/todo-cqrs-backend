@@ -7838,3 +7838,7 @@ com.netflix.discovery.shared.transport.TransportException: Cannot execute reques
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
 	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
 
+2020-06-06 15:28:14.035  INFO 15772 --- [main] com.cg.ToDoListServiceApplication        : Starting ToDoListServiceApplication on DESKTOP-CJ405VI with PID 15772 (C:\AdityaSovani.Java\ToDoList-Service\target\classes started by Aditya Sovani in C:\AdityaSovani.Java\ToDoList-Service)
+2020-06-06 15:28:14.041  INFO 15772 --- [main] com.cg.ToDoListServiceApplication        : No active profile set, falling back to default profiles: default
+2020-06-06 15:28:22.435  WARN 15772 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-06-06 15:28:22.820  INFO 15772 --- [main] com.cg.ToDoListServiceApplication        : Started ToDoListServiceApplication in 9.247 seconds (JVM running for 10.534)
